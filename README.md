@@ -1,16 +1,19 @@
-### Hi there 👋
-
-Hi Traveller, I am Harijaona (layman_brother)
-
-<h1 align="center">Hi Traveller (layman_brother), I am Harijaonaa</h1>
+<h1 align="center">Hi Traveller <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Harijaona </a></h1>
 <h3 align="center">An enthousiast developer from France</h3>
 
+<br/>
 
-- 🌱 I’m currently learning **SOLIDITY and Rust**
+- 🌱 I’m currently learning **Solidity and Rust**
 
 - 💬 Ask me about **Python, React, GraphQL, NestJS, Microservices**
 
 - 📫 How to reach me: hravelondrina@gmail.com
+
+- 👨‍💻 What I do: Full Stack Development and Data Science
+
+
+<br/>
+
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -23,7 +26,8 @@ Hi Traveller, I am Harijaona (layman_brother)
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 </p>
 
-<p>
+<br/>
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)
@@ -51,13 +55,17 @@ Hi Traveller, I am Harijaona (layman_brother)
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-</p>
+
+<br/>
+
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://www.githubtrends.io/wrapped/iharijaona">
-    <img src="https://api.githubtrends.io/user/svg/iharijaona/langs?time_range=one_year&theme=ferns" />
+  <img src="https://api.githubtrends.io/user/svg/iharijaona/langs?time_range=one_year&theme=ferns" />
   </a>
   <a href="https://www.githubtrends.io/wrapped/iharijaona" >
-    <img src="https://api.githubtrends.io/user/svg/iharijaona/repos?time_range=one_year&theme=ferns" />
+  <img src="https://api.githubtrends.io/user/svg/iharijaona/repos?time_range=one_year&theme=ferns" />
   </a>
 </div>
+
+
