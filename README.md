@@ -56,16 +56,4 @@
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 
-<br/>
-
-
-<div style="display: flex; flex-direction: row;">
-  <a href="https://www.githubtrends.io/wrapped/iharijaona">
-  <img src="https://api.githubtrends.io/user/svg/iharijaona/langs?time_range=one_year&theme=ferns" />
-  </a>
-  <a href="https://www.githubtrends.io/wrapped/iharijaona" >
-  <img src="https://api.githubtrends.io/user/svg/iharijaona/repos?time_range=one_year&theme=ferns" />
-  </a>
-</div>
-
 
