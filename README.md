@@ -1,5 +1,8 @@
-<h1 align="center">Hi Traveller <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Harijaona </a></h1>
-<h3 align="center">An enthousiast developer from Madagascar</h3>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am Harijaona </a></h1>
+
+<h3>An enthousiast developer from Madagascar</h3>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-iharijaona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iharijaona/)](https://www.linkedin.com/in/iharijaona/) [![Gmail Badge](https://img.shields.io/badge/-hravelondrina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:hravelondrina@gmail.com)
 
 <br/>
 
@@ -7,12 +10,13 @@
 
 - 💬 Ask me about **Python, React, GraphQL, NestJS, Microservices**
 
-- 📫 How to reach me: hravelondrina@gmail.com
-
-- 👨‍💻 What I do: Full Stack Development and Data Science
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Machine Learning** and **Data Science**
 
 
 <br/>
+
+
+## 🛠 **Tech Stack**
 
 
 <p align="left">
