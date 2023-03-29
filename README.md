@@ -15,6 +15,17 @@
 
 <br/>
 
+## About my skills :
+| Stack | Tools |
+|---|---|
+|**Pyhton**|FastAPI, Flask, Django (REST, GraphQL)|
+|**Javascript / Typescript**| React.js / Redux / Apollo,  Express.js, Nest.js|
+|**Java**|SpringBoot (REST, GraphQL)|
+|**Mobile**|React Native / Redux, Flutter|
+|**DevOps**|CICD, IaS, Docker|
+|**Cloud Infra**|AWS (EC2, Lambda, Glue, RDS MySQL, IAM, Cognito, Kinesis, ECS, EKS...)|
+|**Architectures**|Microservices, Event-driven|
+
 
 ## 🛠 **Tech Stack**
 
