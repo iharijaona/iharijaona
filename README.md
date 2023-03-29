@@ -20,12 +20,12 @@
 
 | Stack | Tools |
 |---|---|
-|**Pyhton**|FastAPI, Flask, Django (REST, GraphQL)|
+|**Python**|FastAPI, Flask, Django, AI ML/DL|
 |**Javascript / Typescript**| React.js / Redux / Apollo,  Express.js, Nest.js|
-|**Java**|SpringBoot (REST, GraphQL)|
+|**Java**|Spring(Cloud, Security, Batch, Data, REST, GraphQL)|
 |**Mobile**|React Native / Redux, Flutter|
 |**DevOps**|CICD, IaS, Docker|
-|**Cloud Infra**|AWS (EC2, Lambda, Glue, RDS MySQL, IAM, Cognito, Kinesis, ECS, EKS...)|
+|**Cloud Infra**|AWS (EC2, S3, Lambda, Glue, RDS, IAM, Cognito, Kinesis, ECS,...)|
 |**Architectures**|Microservices, Event-driven|
 
 
