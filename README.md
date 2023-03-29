@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am Harijaona </a></h1>
+<h1>Hi, I am Harijaona </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
 <h3>An enthousiast developer from Madagascar</h3>
  
@@ -15,7 +15,9 @@
 
 <br/>
 
-## About my skills :
+
+## 🛠 **Tech Stack**
+
 | Stack | Tools |
 |---|---|
 |**Pyhton**|FastAPI, Flask, Django (REST, GraphQL)|
@@ -25,9 +27,6 @@
 |**DevOps**|CICD, IaS, Docker|
 |**Cloud Infra**|AWS (EC2, Lambda, Glue, RDS MySQL, IAM, Cognito, Kinesis, ECS, EKS...)|
 |**Architectures**|Microservices, Event-driven|
-
-
-## 🛠 **Tech Stack**
 
 
 <p align="left">
