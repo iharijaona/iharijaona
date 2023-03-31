@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, React, GraphQL, NestJS, Microservices**
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Machine Learning** and **Data Science**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Software Engineering** and **DevOPS**
 
 
 <br/>
