@@ -1,22 +1,30 @@
-<h1>Hi, I am Harijaona </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h1 align="center">Hi, I am Harijaona </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<h3>An enthousiast developer from Madagascar</h3>
+<h3 align="center">An enthousiast developer from Madagascar</h3>
+
+<div align="center">
  
-[![Linkedin Badge](https://img.shields.io/badge/-iharijaona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iharijaona/)](https://www.linkedin.com/in/iharijaona/) [![Gmail Badge](https://img.shields.io/badge/-hravelondrina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:hravelondrina@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-iharijaona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iharijaona/)](https://www.linkedin.com/in/iharijaona/) [![Gmail Badge](https://img.shields.io/badge/-hravelondrina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:hravelondrina@gmail.com)
+ 
+ </div>
+ 
+ <br/>
+ 
+ <div align="center">
 
+🌱 I’m currently learning **Solidity and Rust**
+
+💬 Ask me about **Python, React, GraphQL, NestJS, Microservices**
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Software Engineering** and **DevOPS**
+  
+</div>
+ 
 <br/>
 
-- 🌱 I’m currently learning **Solidity and Rust**
-
-- 💬 Ask me about **Python, React, GraphQL, NestJS, Microservices**
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Software Engineering** and **DevOPS**
-
-
-<br/>
-
-
-## 🛠 **Tech Stack**
+ <div align="center">
+ 
+<h3 align="center" > 🛠 Tech Stack </h3>
 
 | Stack | Tools |
 |---|---|
@@ -28,8 +36,10 @@
 |**Cloud Infra**|AWS (EC2, S3, Lambda, Glue, RDS, IAM, Cognito, Kinesis, ECS,...)|
 |**Architectures**|Microservices, Event-driven|
 
+ </div>
+<br/>
 
-<p align="left">
+<p align="center">
   
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/>
@@ -44,8 +54,8 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </p>
 
-<br/>
-
+<p align="center">
+ 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)
@@ -73,5 +83,7 @@
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+ 
+ </p>
 
 
