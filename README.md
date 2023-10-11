@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, React, GraphQL, NestJS, Microservices**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Software Engineering** and **DevOPS**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Data Engineering** and **DevOPS**
   
 </div>
  
@@ -28,13 +28,12 @@
 
 | Stack | Tools |
 |---|---|
-|**Python**|FastAPI, Flask, Django, AI ML/DL|
+|**Python**|FastAPI, Flask, Django|
 |**Javascript / Typescript**| React.js / Redux / Apollo,  Express.js, Nest.js|
-|**Java**|Spring(Cloud, Security, Batch, Data, REST, GraphQL)|
 |**Mobile**|React Native / Redux, Flutter|
 |**DevOps**|CICD, IaS, Docker|
 |**Cloud Infra**|AWS (EC2, S3, Lambda, Glue, RDS, IAM, Cognito, Kinesis, ECS,...)|
-|**Architectures**|Microservices, Event-driven|
+|**API & Architectures**|REST, GraphQL, Microservices, Event-driven|
 
  </div>
 <br/>
