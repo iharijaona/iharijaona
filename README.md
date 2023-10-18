@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning **Solidity and Rust**
 
-💬 Ask me about **Python, React, GraphQL, NestJS, Microservices**
+💬 Ask me about **Python, React, GraphQL,Microservices**
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Data Engineering** and **DevOPS**
   
