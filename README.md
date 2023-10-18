@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning **Solidity and Rust**
 
-💬 Ask me about **Python, React, GraphQL,Microservices**
+💬 Ask me about **Python, React, GraphQL, Microservices**
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Data Engineering** and **DevOPS**
   
@@ -28,11 +28,10 @@
 
 | Stack | Tools |
 |---|---|
-|**Python**|FastAPI, Flask, Django|
+|**Python**|FastAPI, Flask, Django, Pandas, PySpark|
 |**Javascript / Typescript**| React.js / Redux / Apollo,  Express.js, Nest.js|
-|**Mobile**|React Native / Redux, Flutter|
 |**DevOps**|CICD, IaS, Docker|
-|**Cloud Infra**|AWS (EC2, S3, Lambda, Glue, RDS, IAM, Cognito, Kinesis, ECS,...)|
+|**Cloud Infra**|AWS (EC2, S3, Lambda, Glue, RDS, IAM, Cognito, Kinesis, ECS, Fargate, Api Gateway, ALB, VPC, ...)|
 |**API & Architectures**|REST, GraphQL, Microservices, Event-driven|
 
  </div>
